@@ -1,5 +1,3 @@
-console.log("js running")
-
 function sendMail(event) {
     event.preventDefault();  // Prevent the form from submitting traditionally
     
